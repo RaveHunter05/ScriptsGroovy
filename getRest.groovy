@@ -10,7 +10,7 @@ import org.apache.commons.codec.binary.Base64;
 
 def baseURL = "https://apitest691.herokuapp.com/api/";
 
-def endpoint = "valueasdfs";
+def endpoint = "comment";
 
 URL url;
 
